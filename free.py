@@ -22,7 +22,7 @@ def o():
         os.system('xdg-open https://www.facebook.com/rafsanur.rafin')
         return None
     if None == '3':
-        os.system('xdg-open https://youtube.com/channel/UCJY8Yd18ebXSD0cGGET6PUw')
+        os.system('xdg-open https://github.com/DRUNK01')
         return None
     if None == '4':
         os.system('xdg-open https://www.facebook.com/rafsanur.rafin')
